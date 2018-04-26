@@ -340,10 +340,43 @@
 
     
     
+<section class="comments" id="comments">
+    <div id="gitment_thread"></div>
+    <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'Rainylo',
+            repo: 'gitalk.github.io',
+            oauth: {
+                client_id: '172178d849c81751f2fd',
+                client_secret: 'a8f4315f1a31b0b79c78882b00c0b32c339f7363',
+            },
+        })
+        gitment.render('comments')
+    </script>
+</section>
+
 
     
+<section class="comments" id="comments">
+    <div id="gitalk-container"></div>
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+        var gitalk = new Gitalk({
+            clientID: '172178d849c81751f2fd',
+            clientSecret: 'a8f4315f1a31b0b79c78882b00c0b32c339f7363',
+            repo: 'gitalk.github.io',
+            owner: 'Rainylo',
+            admin: ['Rainylo']
+        });
+        gitalk.render('gitalk-container');
+    </script>
+</section>
 
-    
+
+
 
 
 </article>
@@ -584,7 +617,6 @@ if (window.console && window.console.log) {
 <!-- 页面点击小红心 -->
 <script type="text/javascript" src="/js/love.js"></script>
 
-    <!-- 页面点击小红心 -->
-<script type="text/javascript" src="/js/love.js"></script>
+
 </body>
 </html>
