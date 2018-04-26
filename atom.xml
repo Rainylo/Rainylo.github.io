@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Rainylo.github.io/"/>
-  <updated>2018-04-26T13:35:35.128Z</updated>
+  <updated>2018-04-26T15:01:43.334Z</updated>
   <id>http://Rainylo.github.io/</id>
   
   <author>
@@ -17,25 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇文章</title>
+    <title>页面点击效果</title>
     <link href="http://Rainylo.github.io//posts/5c2fafc7/"/>
     <id>http://Rainylo.github.io//posts/5c2fafc7/</id>
     <published>2018-04-26T09:58:33.000Z</published>
-    <updated>2018-04-26T13:35:35.128Z</updated>
+    <updated>2018-04-26T15:01:43.334Z</updated>
     
-    <content type="html"><![CDATA[<p>仅作为测试文章使用，关注<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>以及我的室友<a href="http://guoyu7.com" target="_blank" rel="noopener">GY</a></p>]]></content>
+    <content type="html"><![CDATA[<p>#实现页面点击桃心效果</p><p>######手机端也有特效哦</p><p>##输入如下网址：<br>    <a href="http://7u2ss1.com1.z0.glb.clouddn.com/love.js" target="_blank" rel="noopener">http://7u2ss1.com1.z0.glb.clouddn.com/love.js</a></p><p>Ctrl+A Ctrl+C 将里面的代码复制，之后在路径/themes/“主题名”/source/js下新建love.js（不同hexo主题js文件目录不一定相同，我以我的主题tomatos为例），将刚才复制的代码粘贴进去，打开/themes/“主题名”/layout/script.ejs（不同注意文件名一般不同，自行查找相应主题layout下放置特效的文件），打开后在末尾添加以下代码：</p><pre><code>&lt;script type=&quot;text/javascript&quot; src=&quot;/js/love.js&quot;&gt;&lt;/script&gt;</code></pre><p>到此，教程就结束了，如果有其他问题可能是script代码添加位置不对，动手多试试吧！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;仅作为测试文章使用，关注&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;以及我的室友&lt;a href=&quot;http://guoyu7.com&quot; target=&quot;_blank&quot; rel=&quot;noop
+        &lt;p&gt;#实现页面点击桃心效果&lt;/p&gt;
+&lt;p&gt;######手机端也有特效哦&lt;/p&gt;
+&lt;p&gt;##输入如下网址：&lt;br&gt;    &lt;a href=&quot;http://7u2ss1.com1.z0.glb.clouddn.com/love.js&quot; target=&quot;_blank&quot; rel=&quot;no
       
     
     </summary>
     
     
-      <category term="-日志" scheme="http://Rainylo.github.io/tags/%E6%97%A5%E5%BF%97/"/>
+      <category term="Hexo" scheme="http://Rainylo.github.io/tags/Hexo/"/>
+    
+      <category term="页面美化" scheme="http://Rainylo.github.io/tags/%E9%A1%B5%E9%9D%A2%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
