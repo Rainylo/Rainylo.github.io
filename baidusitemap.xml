@@ -4,27 +4,8 @@
 
     
   <url>
-    <loc>http://Rainylo.github.io//posts/ec7d7221/</loc>
-    <lastmod>2018-04-27T14:28:40.856Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo搭建个人博客</title>
-        <pubTime>2018-04-27T12:38:04.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>个人博客</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://Rainylo.github.io//posts/5c2fafc7/</loc>
-    <lastmod>2018-04-27T14:28:35.604Z</lastmod>
+    <lastmod>2018-04-27T14:34:23.209Z</lastmod>
     <data>
         <display>
         <title>页面点击效果</title>
@@ -36,6 +17,31 @@
          
          
            
+             
+              <breadCrumb title="Hexo博客" url="http://Rainylo.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://Rainylo.github.io//posts/ec7d7221/</loc>
+    <lastmod>2018-04-27T14:34:21.460Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo搭建个人博客</title>
+        <pubTime>2018-04-27T12:38:04.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>个人博客</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo博客" url="http://Rainylo.github.io/categories/Hexo%E5%8D%9A%E5%AE%A2/"/>
+          
         </display>
     </data>
     </url>
