@@ -5,13 +5,15 @@
     
   <url>
     <loc>http://Rainylo.github.io//posts/ec7d7221/</loc>
-    <lastmod>2018-04-27T14:27:13.168Z</lastmod>
+    <lastmod>2018-04-27T14:28:40.856Z</lastmod>
     <data>
         <display>
         <title>Hexo搭建个人博客</title>
         <pubTime>2018-04-27T12:38:04.000Z</pubTime>
         
-        <tag>Hexo，个人博客</tag>
+        <tag>Hexo</tag>
+         
+        <tag>个人博客</tag>
          
          
            
@@ -20,10 +22,9 @@
     </url>
 
     
-    
   <url>
     <loc>http://Rainylo.github.io//posts/5c2fafc7/</loc>
-    <lastmod>2018-04-27T09:57:27.210Z</lastmod>
+    <lastmod>2018-04-27T14:28:35.604Z</lastmod>
     <data>
         <display>
         <title>页面点击效果</title>
@@ -39,6 +40,7 @@
     </data>
     </url>
 
+    
     
     
 </urlset>
