@@ -3,15 +3,6 @@
   
     
     <entry>
-      <title>Hexo博客——不止于文字</title>
-      <link href="//posts/232c0b30/"/>
-      <url>//posts/232c0b30/</url>
-      <content type="html"><![CDATA[<p>在博客中添加图片、音乐、视频<br><a id="more"></a></p><h1 id="添加图片："><a href="#添加图片：" class="headerlink" title="添加图片："></a>添加图片：</h1><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="/posts/232c0b30/images/avatar.png" alt="" ceshi""="" title="">                </div>                <div class="image-caption">"ceshi"</div>            </figure>]]></content>
-      
-      
-    </entry>
-    
-    <entry>
       <title>Hexo搭建个人博客</title>
       <link href="//posts/ec7d7221/"/>
       <url>//posts/ec7d7221/</url>
