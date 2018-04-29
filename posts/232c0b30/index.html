@@ -50,7 +50,7 @@
 <meta property="og:image" content="http://rainylo.github.io/img/wangyi1.jpg">
 <meta property="og:image" content="http://rainylo.github.io/img/wangyi2.jpg">
 <meta property="og:image" content="http://rainylo.github.io/img/video.jpg">
-<meta property="og:updated_time" content="2018-04-29T05:04:29.218Z">
+<meta property="og:updated_time" content="2018-04-29T05:10:52.055Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo博客——不止于文字">
 <meta name="twitter:description" content="在文章中添加图片、音乐及视频">
@@ -234,22 +234,16 @@
 <li><p>首先更改_config.yml 中 post_asset_folder:true。当设置post_asset_folder为true参数后，在建立文件时，Hexo会自动建立一个与文章同名的文件夹，可以把与该文章相关的所有资源都放到这个文件夹，便于对每篇文章里的资源进行管理</p>
 </li>
 <li><p>在搭建的博客目录下打开Git bash ，执行:</p>
-<blockquote>
-<p>npm install <a href="https://github.com/CodeFalling/hexo-asset-image" target="_blank" rel="noopener">https://github.com/CodeFalling/hexo-asset-image</a> –save</p>
-</blockquote>
-</li>
+<pre><code>npm install https://github.com/CodeFalling/hexo-asset-image --save
+</code></pre></li>
 <li><p>完成安装后用Hexo新建文章的时候会发现_posts目录下面会多出一个和文章名字一样的文件夹。</p>
 </li>
 <li><p>把图片放在文件夹下面。此时，就可以在文章中添加如下代码格式即可插入图片：    </p>
-<blockquote>
-<p>![图片描述](文件夹名/图片名称.jpg)</p>
-</blockquote>
-</li>
+<pre><code>!\[图片描述](文件夹名/图片名称.jpg)
+</code></pre></li>
 <li><p>也可以在source文件夹中新建images文件夹，把所有图片统一放置在里面（可以删除新建文章时创建的文件夹），使用绝对路径插入图片：</p>
-<blockquote>
-<p>![图片描述](/img/图片名称.jpg)</p>
-</blockquote>
-</li>
+<pre><code>!\[图片描述](/img/图片名称.jpg)
+</code></pre></li>
 <li><p>相对路径和绝对路径两种方法各有好处，根据个人习惯选择。</p>
 </li>
 </ol>
@@ -285,7 +279,7 @@
     <div class="content">
         
 <span class="post-time">
-    Last updated: <time datetime="2018-04-29T05:04:29.218Z" itemprop="dateUpdated">2018-04-29 13:04:29</time>
+    Last updated: <time datetime="2018-04-29T05:10:52.055Z" itemprop="dateUpdated">2018-04-29 13:10:52</time>
 </span>
 
 
