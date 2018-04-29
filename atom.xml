@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://Rainylo.github.io/"/>
-  <updated>2018-04-27T14:34:21.460Z</updated>
+  <updated>2018-04-29T02:16:14.532Z</updated>
   <id>http://Rainylo.github.io/</id>
   
   <author>
@@ -15,6 +15,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客嵌入视频</title>
+    <link href="http://Rainylo.github.io//posts/fccddf64/"/>
+    <id>http://Rainylo.github.io//posts/fccddf64/</id>
+    <published>2018-04-29T02:09:35.000Z</published>
+    <updated>2018-04-29T02:16:14.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>【AE】仿爱情公寓片头<br><a id="more"></a></p><iframe src="//player.bilibili.com/player.html?aid=22656554&cid=37594775&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> </iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;【AE】仿爱情公寓片头&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo搭建个人博客</title>

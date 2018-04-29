@@ -3,6 +3,15 @@
   
     
     <entry>
+      <title>Hexo博客嵌入视频</title>
+      <link href="//posts/fccddf64/"/>
+      <url>//posts/fccddf64/</url>
+      <content type="html"><![CDATA[<p>【AE】仿爱情公寓片头<br><a id="more"></a></p><iframe src="//player.bilibili.com/player.html?aid=22656554&cid=37594775&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> </iframe>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>Hexo搭建个人博客</title>
       <link href="//posts/ec7d7221/"/>
       <url>//posts/ec7d7221/</url>
